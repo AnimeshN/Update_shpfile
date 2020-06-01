@@ -1,0 +1,244 @@
+SNO,STATE,DISTRICT,FACLTY_NAM,CATEGORY,TYPE,FACILITY_I,ISO_MINUS_,ISO_CONFM_,ISO_SUSPEC,O2SUPORTED,TOTAL_ICU,VENTILATOR,O2_MANIFOL,PPE,N95,BIO_MED_WA
+3345,Maharashtra,BEED,"WH Quarters and
+Nursing college,Ambajogai",Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26941,100,70,30,70,29,0,1,10,25,1
+262,Maharashtra,THANE,"Civil Hospital Thane ,","Cat. I - Dedicated COVID
+Hospitals / DCH","Govt
+Hospitals",26288,180,180,0,180,20,12,1,260,30753,1
+3873,Maharashtra,MUMBAI,RUPAREL COLLEGE HOSTEL,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26894,184,184,0,0,0,0,0,100,100,1
+1760,Maharashtra,BEED,ITI hostel beed,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26829,200,140,60,0,0,0,0,10,30,1
+2948,Maharashtra,PUNE,"NICMAR Balewadi, Pune",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27041,1019,510,509,0,0,0,0,100,125,1
+2942,Maharashtra,PUNE,"Singhgad College, Vadgaon Budruk",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27045,1125,512,613,0,0,0,0,210,260,1
+2935,Maharashtra,PUNE,"Rakshaknagar Stadium, Kharadi",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27049,90,44,46,0,0,0,0,89,73,1
+2044,Maharashtra,LATUR,"Dr Babasaheb
+Ambedkar Boudh
+Niwashi Shala Tondar Pati Udgir",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16561,180,90,90,0,0,0,0,8,10,1
+4571,Maharashtra,PUNE,"Tilak Ayurved College,Pune",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26479,50,0,50,0,0,0,0,0,50,1
+4872,Maharashtra,THANE,"TATA AMANTRA B2
+BNMC temporary dchc",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,18796,550,550,0,0,0,0,0,20,32,1
+3685,Maharashtra,THANE,KDMC Shastri Nagar Hospital,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26363,36,12,24,12,6,3,1,800,1200,1
+3384,Maharashtra,GADCHIROLI,Dharmashala DH Gadchiroli,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,19010,100,50,50,100,2,1,1,5,10,1
+3482,Maharashtra,NANDED,"SGGS DH New
+Building",Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,15503,100,50,50,100,0,0,1,30,50,1
+235,Maharashtra,THANE,"MBMC - Thunga
+Hospital","Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26077,15,5,10,10,5,5,1,150,100,1
+1828,Maharashtra,DHULE,"Anusuchit Jati & Nav
+Baudhha Girls Government Residential School,Bhadne Tal- Sakri",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16960,220,0,220,0,0,0,0,45,317,1
+4836,Maharashtra,THANE,"TMC: Vedant
+Multispeciality Hospital & Research
+Centre",Cat. III - Dedicated COVID Center / DCCC,Hospital,26270,78,78,0,0,10,4,0,1000,2500,1
+1754,Maharashtra,BEED,samaj kalyan boys school hostel parali,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26835,100,70,30,0,0,0,0,10,30,1
+1751,Maharashtra,BEED,"samaj kalyan
+residencial school parali v",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26836,150,105,45,0,0,0,0,5,15,1
+1749,Maharashtra,BEED,samaj kalyan girls hostel Ambajogai,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26837,80,56,24,0,0,0,0,10,30,1
+186,Maharashtra,PUNE,"Sahyadri Hospital, Nagar Road, Yerwada",Cat. I - Dedicated COVID Hospitals / DCH,Private Hospitals,26830,25,15,10,25,10,5,1,250,470,1
+1758,Maharashtra,BEED,Goverment polytechnic Ashti,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26831,100,70,30,0,0,0,0,5,15,1
+1757,Maharashtra,BEED,"samaj kalyana
+ashramshala majalgaon",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26832,170,119,51,0,0,0,0,5,15,1
+1746,Maharashtra,BEED,"Samaj Kalyan
+sugercane cutter Ashramshala Kaij",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26838,220,154,66,0,0,0,0,5,15,1
+1744,Maharashtra,BEED,Samaj Kalyan Boys hostel Kaij,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26839,100,70,30,0,0,0,0,5,10,1
+249,Maharashtra,THANE,"Apollo Hospital,
+Belapur (NMMC)","Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26401,0,0,0,0,25,10,1,100,200,1
+4098,Maharashtra,MUMBAI,HE1 Hotel Sai Inn,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,25213,24,0,24,0,0,0,0,0,0,1
+242,Maharashtra,THANE,"Terna Hospital, Nerul
+(NMMC)","Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26406,250,100,150,18,0,2,1,200,400,1
+2964,Maharashtra,PUNE,"Symbiosis Infotech Campus, Hinjwadi",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26935,384,185,199,0,0,0,0,35,50,1
+3560,Maharashtra,PUNE,"Mimer Medical Collage & hospital , talegaon Dabhade",Cat. II - Dedicated COVID Health Center / DCHC,Private Medical College,26934,80,40,40,10,20,6,1,25,35,1
+4828,Maharashtra,THANE,"Jondhale college
+,shahapur",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26362,100,50,50,0,0,0,0,65,75,1
+1687,Maharashtra,AMRAVATI,"BC Govt.Girls Hostel,Chandur rly",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16575,160,80,80,0,0,0,0,30,30,1
+257,Maharashtra,THANE,KDMC Neon Hospital,"Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26364,22,22,0,22,6,5,1,500,1000,1
+126,Maharashtra,NANDED,"Aasha Hospital, Kabra nagar road, Nanded.",Cat. I - Dedicated COVID Hospitals / DCH,Private Hospitals,26366,20,10,10,20,10,2,1,20,20,1
+3507,Maharashtra,NASHIK,General Hospital Malegaon,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,16024,56,30,26,20,4,2,1,10,10,1
+189,Maharashtra,RATNAGIRI,"District Hospital,
+Ratnagiri","Cat. I - Dedicated COVID
+Hospitals / DCH","Govt
+Hospitals",26082,380,190,190,8,20,18,0,250,8396,1
+3576,Maharashtra,RAIGAD,SDH Pen,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26242,50,40,10,15,2,0,0,180,110,1
+3579,Maharashtra,RAIGAD,SDH Karjat,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26241,50,40,10,20,0,0,0,255,290,1
+3582,Maharashtra,RAIGAD,SDH Mangaon,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26240,52,52,0,20,5,2,0,13,2,1
+4874,Maharashtra,THANE,"MBMC - Neptune
+Hospital","Cat. III - Dedicated COVID
+Center / DCCC",Hospital,26101,748,298,449,0,7,1,0,10,20,1
+4619,Maharashtra,PUNE,"Astang Ayurved
+College ,Pune","Cat. III - Dedicated COVID
+Center / DCCC",Hospital,26487,50,0,50,0,0,0,0,0,25,1
+1767,Maharashtra,BEED,"Samaj Kalyan
+Ashramshala Antharwan pimpri",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26847,225,157,68,0,0,0,0,5,15,1
+1765,Maharashtra,BEED,Samaj Kalyan Girls hostel Dharur,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26849,100,70,30,0,0,0,0,5,15,1
+3350,Maharashtra,BEED,Trauma Care Unit Telgaon,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26441,45,35,10,5,5,0,1,5,15,1
+4592,Maharashtra,PUNE,"Hariyana Stadium, Khadki",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,23773,20,10,10,0,0,0,0,10,15,1
+1834,Maharashtra,GADCHIROLI,Kasturba Balika School Bhamragad,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16546,150,75,75,0,0,0,0,2,5,1
+2915,Maharashtra,PUNE,"Balewadi Sport Complex, Mhalunge",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27067,300,150,150,0,0,0,0,55,65,1
+4818,Maharashtra,THANE,"MBMC - Orbit
+Hospital","Cat. III - Dedicated COVID
+Center / DCCC",Hospital,26098,25,25,0,0,8,1,0,20,20,1
+3718,Maharashtra,THANE,"MBMC - Bhakti
+Vedant Hospital & Reserch Institure",Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26311,49,1,48,15,1,0,1,200,300,1
+3414,Maharashtra,JALGAON,"BAPJI JIVANDEEP
+M.S. HOSPITAL, CHALISGAON",Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,18245,26,10,16,4,2,1,0,5,45,1
+4615,Maharashtra,PUNE,"Sumatibai Shaha
+Ayurved College
+,Hadapsar, Pune",Cat. III - Dedicated COVID Center / DCCC,Hospital,26490,50,0,50,0,0,0,0,20,50,1
+1921,Maharashtra,JALGAON,"Sonai Hall Nath
+Mandir Pachora","Cat. III - Dedicated COVID
+Center / DCCC",Hospital,17253,150,0,150,0,0,0,0,0,5,1
+4469,Maharashtra,NASHIK,"Mahaveer REsident School,Lasalgaon",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26251,25,0,25,0,0,0,0,5,0,1
+3491,Maharashtra,NASHIK,RH Lasalgaon,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26252,10,10,0,5,4,0,0,40,15,1
+4608,Maharashtra,PUNE,"Bharti Vidyapeeth
+College of Aurved,Dhankawadi
+,Pune",Cat. III - Dedicated COVID Center / DCCC,Hospital,26495,50,20,30,0,0,0,0,25,50,1
+4617,Maharashtra,PUNE,"Symbiosis infotech campus ,Hinjwadi",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26853,384,0,384,0,0,0,0,0,50,1
+3923,Maharashtra,MUMBAI,KE2 NATIONAL URDU LP,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,24809,40,40,0,0,0,0,0,0,0,1
+4605,Maharashtra,PUNE,RMD English Medium School Shirur,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26857,160,0,160,0,0,0,0,0,0,1
+4610,Maharashtra,PUNE,Govt.English Medium Ashramshala Ambegson,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26855,400,0,400,0,0,0,0,0,0,1
+4599,Maharashtra,PUNE,"MIT College Boys
+Hostel Kadamwak Vasti Pune",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26858,990,0,990,0,0,0,0,0,50,1
+4594,Maharashtra,PUNE,Sahyadri Internationational School Bibi Tal.Khed,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26859,250,0,250,0,0,0,0,0,0,1
+3470,Maharashtra,MUMBAI,THUNGA HOSPITAL,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26919,13,13,0,13,0,0,1,100,100,1
+3473,Maharashtra,MUMBAI,KARUNA HOSPITAL,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26917,30,30,0,30,0,0,1,100,100,1
+1949,Maharashtra,JALGAON,M. G. College Hostel Yawal road Chopda,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26916,180,60,120,0,0,0,0,20,20,1
+3596,Maharashtra,RAIGAD,Raut Hospital Mangaon,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26229,30,25,5,5,0,0,0,35,60,1
+3572,Maharashtra,RAIGAD,VN Kumar IPCL Hospital Roha,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26220,24,20,4,5,0,0,0,35,75,1
+3602,Maharashtra,RAIGAD,"Criticare Hospital Dr
+Madhukar Rathod Panvel",Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26223,50,40,10,10,0,0,0,35,70,1
+4865,Maharashtra,THANE,"MBMC-M.M.R.D.A
+building samriddhi housing society",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26225,814,570,244,0,0,0,0,50,200,1
+3600,Maharashtra,RAIGAD,Ranade Hospital Mahad,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26226,20,15,5,5,0,0,0,35,60,1
+4830,Maharashtra,THANE,"MBMC - Meenatai
+Thakre Community
+Hall",Cat. III - Dedicated COVID Center / DCCC,Hospital,26323,2244,898,1346,0,0,0,0,50,50,1
+3537,Maharashtra,PUNE,"Dr. Dalavi Hospital Shivaji Nagar, PMC",Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26907,40,40,0,10,10,0,0,100,100,1
+1842,Maharashtra,GADCHIROLI,RMSA Hostel Etapalli,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16527,100,50,50,0,0,0,0,5,10,1
+3339,Maharashtra,BEED,"Lifeline
+Multispeciality surgical Hospital
+Beed",Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26868,30,10,20,10,10,0,1,0,0,1
+3341,Maharashtra,BEED,Paradise Hospital Beed,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26867,38,10,28,10,10,0,1,0,0,1
+3342,Maharashtra,BEED,Veer Hospital Beed,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26866,35,10,25,10,10,0,1,0,0,1
+3343,Maharashtra,BEED,Spandan Hospital beed,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26865,30,10,20,10,10,0,1,0,0,1
+3344,Maharashtra,BEED,Gholve Hospital Beed,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26864,30,10,20,10,10,0,1,0,0,1
+3347,Maharashtra,BEED,Tidke hospital beed,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26862,25,15,10,10,10,0,1,0,0,1
+3561,Maharashtra,PUNE,"Late Chandumama Sonawane Hospital, Bhavani Peth",Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26816,30,15,15,10,0,0,1,58,32,1
+3327,Maharashtra,AURANGABAD,Kamalnayan Bajaj Hospital,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26339,50,25,25,21,2,2,1,157,180,1
+4644,Maharashtra,RAIGAD,Surendra Chavan Acadamy Divil,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26333,40,30,10,0,0,0,0,30,50,1
+4649,Maharashtra,RAIGAD,Riverguest Resort Karjat,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26332,15,10,5,0,0,0,0,15,40,1
+4654,Maharashtra,RAIGAD,ITI College Shriwardhan,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26331,30,25,5,0,0,0,0,25,50,1
+4659,Maharashtra,RAIGAD,"District Sports
+Complex Hostel Alibag",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26330,50,40,10,0,0,0,0,30,60,1
+4634,Maharashtra,RAIGAD,Govt Technical Training Center Tala,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26336,50,40,10,0,0,0,0,30,50,1
+4641,Maharashtra,RAIGAD,Vedak Engineering College Tala,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26335,50,40,10,0,0,0,0,30,50,1
+3329,Maharashtra,AURANGABAD,Mahatma Gandhi Memorial Hospital,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26334,400,300,100,100,25,20,1,10,500,1
+4189,Maharashtra,MUMBAI SUBURBAN,MW1 Ruparel SRA,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,25286,600,0,600,0,0,0,0,10,5,1
+3585,Maharashtra,RAIGAD,Keluskar Hospital,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26238,70,50,20,15,0,0,0,495,988,1
+4845,Maharashtra,THANE,"MBMC-MMRDA
+Building, Span Signature",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26239,268,188,80,0,0,0,0,50,50,1
+3593,Maharashtra,RAIGAD,Dr Nandgaonkar Hospital Mahad,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26232,15,10,5,5,0,0,0,25,45,1
+4853,Maharashtra,THANE,"MBMC-MMRDA
+Building, S.K.Heights",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26237,300,210,90,0,0,0,0,50,50,1
+3590,Maharashtra,RAIGAD,Deshmukh Nursing Home Mahad,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26234,20,15,5,5,0,0,0,70,110,1
+4860,Maharashtra,THANE,MBMC-Delta garden,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26235,862,603,259,0,0,0,0,50,50,1
+3699,Maharashtra,THANE,TMC : Wavikar Eye Institute,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26067,28,28,0,0,0,0,1,600,1500,1
+2028,Maharashtra,LATUR,"S.C. Shaskiy Mulanchi Vastigrah Shala, Jau Tq Nilanga Dist. Latur",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16531,100,50,50,0,0,0,0,15,14,1
+1844,Maharashtra,GADCHIROLI,KGBV Girls Hostel Sironcha,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16535,100,50,50,0,0,0,0,3,5,1
+3337,Maharashtra,BEED,"Sau.Kesharbai
+Kshirsagar Hospital Beed",Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26870,26,10,16,10,10,0,1,0,0,1
+1904,Maharashtra,JALGAON,"Shashkiya Adivasi
+Mulanche Vastigruh
+Erandol",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26875,120,40,80,0,0,0,0,5,5,1
+4627,Maharashtra,RAIGAD,Murud plaza bandar line murud,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26325,48,35,13,0,0,0,0,35,70,1
+4621,Maharashtra,RAIGAD,Ghansar Hotel Mhasala,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26326,25,20,5,0,0,0,0,25,50,1
+4669,Maharashtra,RAIGAD,Gajanan Vidyamandir Karjat,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26327,50,40,10,0,0,0,0,35,70,1
+4891,Maharashtra,WASHIM,"Government
+Residential school for SC children, Sawad, Tal. Risod",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,16429,100,40,60,0,0,0,0,15,50,1
+4560,Maharashtra,PARBHANI,Badminton Hall Stadium Parbhani,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26525,140,70,70,0,0,0,0,0,0,1
+3505,Maharashtra,NASHIK,"Dr.Babasaheb
+Ambedkar Ashram School,Pimpalgaon Baswant,Niphad",Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26286,23,0,23,2,2,0,1,18,0,1
+1645,Maharashtra,AHMEDNAGAR,"Deepak
+Hospital,Ahmednagar
+,Pin-414003",Cat. III - Dedicated COVID Center / DCCC,Hospital,17818,100,80,20,0,0,0,0,0,50,1
+4664,Maharashtra,RAIGAD,VidyaMandir Poladpur,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26328,50,40,10,0,0,0,0,30,50,1
+3472,Maharashtra,MUMBAI,BSES MG GENERAL HOSPITAL,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26281,6,0,6,6,3,2,1,100,1000,1
+2959,Maharashtra,PUNE,"Singhgad College, Kondhwa",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27032,327,155,172,0,0,0,0,305,351,1
+2953,Maharashtra,PUNE,"Trinity College Hostel, Kondhwa",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27037,220,110,110,0,0,0,0,264,190,1
+3352,Maharashtra,BEED,SDH Kaij,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26440,95,80,15,5,5,1,1,50,450,1
+100,Maharashtra,MUMBAI,APEX HOSPITAL,"Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26962,15,15,0,10,0,4,1,50,50,1
+107,Maharashtra,MUMBAI,LIFELINE MEDICARE,"Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26961,14,14,0,0,0,0,1,100,100,1
+1701,Maharashtra,AURANGABAD,VINAYAKRAO PATIL MAHAVIDYALAY YEVLA ROAD VAIJAPUR,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,17192,340,160,180,0,0,0,0,25,17,1
+3383,Maharashtra,GADCHIROLI,New Construction PHC Building Alapalli,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,17611,40,20,20,40,2,1,1,92,340,1
+3573,Maharashtra,RAIGAD,Yasoda Hospital Panvel,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26298,30,25,5,5,0,0,0,35,60,1
+3603,Maharashtra,RAIGAD,Sathe Health Care Uran,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26299,24,20,4,3,0,0,0,30,50,1
+167,Maharashtra,PUNE,"Inlax & Budhrani
+Hospital, Koregaon Park",Cat. I - Dedicated COVID Hospitals / DCH,Private Hospitals,26808,46,24,22,28,4,2,1,539,1285,1
+3597,Maharashtra,RAIGAD,JSW Hospital Wadkhal,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26291,50,40,10,10,0,0,0,85,120,1
+3594,Maharashtra,RAIGAD,"Siddhivinayak
+Accident Hospital panvel",Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26292,30,25,5,5,0,0,0,55,120,1
+3591,Maharashtra,RAIGAD,Kamerkar Hospital Mangaon,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26293,25,20,5,5,0,0,0,35,60,1
+3586,Maharashtra,RAIGAD,"Dr Ashish Jadhav
+Sampurn Rege Hospital Rasayani",Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26294,62,50,12,10,0,0,0,70,120,1
+3583,Maharashtra,RAIGAD,Jijamata Hospital,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26295,30,25,5,5,0,0,0,35,60,1
+3580,Maharashtra,RAIGAD,Vikram Ispat Salav,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26296,20,15,5,5,0,0,1,30,60,1
+3577,Maharashtra,RAIGAD,Shree Sai Hospital Pen,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26297,30,25,5,4,0,0,0,30,50,1
+4808,Maharashtra,SOLAPUR,"BHARAT RATNA
+INDIRA GANDHI COLLEGE",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26213,190,90,100,0,0,0,0,60,60,0
+3574,Maharashtra,RAIGAD,Mhatre Hospital Pen,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26219,28,25,3,10,2,2,0,35,80,1
+239,Maharashtra,THANE,"TMC: Vedant
+Hospital","Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26058,90,90,0,80,15,12,1,3000,4500,1
+4579,Maharashtra,PUNE,"BJS College, Wagholi",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26059,420,210,210,0,0,0,0,25,35,1
+251,Maharashtra,THANE,TMC: Civil hospital,"Cat. I - Dedicated COVID
+Hospitals / DCH","Govt
+Hospitals",26056,230,230,0,0,20,18,1,6000,10000,1
+246,Maharashtra,THANE,TMC: Prime horizon Hospitl Manpada,Cat. I - Dedicated COVID Hospitals / DCH,Private Hospitals,26057,85,85,0,85,15,8,1,3000,4000,1
+4174,Maharashtra,MUMBAI SUBURBAN,Hotel Sai Inn,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,20877,24,0,24,0,0,0,0,50,100,1
+4509,Maharashtra,NASHIK,"Tiloli Ashram School,Tiloli,Dindori",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,17218,100,50,50,0,0,0,0,5,5,0
+2928,Maharashtra,PUNE,"Sans Ground, Swargate",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27051,125,60,65,0,0,0,0,25,40,1
+3323,Maharashtra,AURANGABAD,Dr Hedgewar Hospital,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26340,50,25,25,25,25,8,1,10,250,1
+4381,Maharashtra,NAGPUR,"Vimukt Jati Va
+Bhatkya Jamati Ashram School Hingna Nagpur",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,17176,70,30,40,0,0,0,0,5,20,1
+3461,Maharashtra,MUMBAI,"Shatabdi Hospital, Govandi",Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26346,40,40,0,40,0,0,1,0,0,1
+3313,Maharashtra,AMRAVATI,"Gurudeo Ayurved
+Collage Mozari Amravati",Cat. II - Dedicated COVID Health Center / DCHC,"Private
+Medical College",26347,160,80,80,10,0,0,1,30,30,1
+161,Maharashtra,PUNE,"Sahyadri Hospital,
+Hadapsar","Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26818,12,6,6,12,8,8,1,850,515,1
+3464,Maharashtra,MUMBAI,"Sushrusha Hospital, Dadar",Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26345,50,50,0,50,11,5,1,0,0,1
+2921,Maharashtra,PUNE,"Boys Hostel of Social Justice Department, Moshi",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,27059,200,100,100,0,0,0,0,55,65,1
+3312,Maharashtra,AMRAVATI,Sub District H0spital Morshi,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26348,25,10,15,5,0,0,1,10,30,1
+3311,Maharashtra,AMRAVATI,Sub District Hospital Daryapur,Cat. II - Dedicated COVID Health Center / DCHC,Govt Hospitals,26349,25,10,15,5,0,0,1,5,30,1
+4564,Maharashtra,PARBHANI,"Zilla Parishad, New Building, Parbhani",Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26504,450,450,0,0,0,0,0,4,7,1
+164,Maharashtra,PUNE,"Global Hospital &
+Research Institute","Cat. I - Dedicated COVID
+Hospitals / DCH","Private
+Hospitals",26813,17,10,7,17,1,1,1,740,450,1
+3830,Maharashtra,MUMBAI,HASNABAD URDU MUNICIPAL SCHOOL,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26896,100,100,0,0,0,0,0,100,100,1
+3786,Maharashtra,MUMBAI,KASHINATH DHURU HALL,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26897,69,69,0,0,0,0,0,50,50,1
+3523,Maharashtra,PALGHAR,GG College Annuexure Building,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26065,500,500,0,200,0,0,0,200,1000,1
+4575,Maharashtra,PUNE,ITI VELHA,Cat. III - Dedicated COVID Center / DCCC,Other than Hospital,26060,50,0,50,0,0,0,0,0,50,1
+3743,Maharashtra,MUMBAI,MMRDA,"Cat. III - Dedicated COVID
+Center / DCCC",Hospital,26898,100,100,0,0,0,0,0,50,50,1
+3694,Maharashtra,THANE,TMC : Thane Covid Hospital DCHC,Cat. II - Dedicated COVID Health Center / DCHC,Private Hospitals,26068,475,475,0,174,25,5,1,10000,25000,1
+272,Maharashtra,THANE,TMC: Titan Hospital,Cat. I - Dedicated COVID Hospitals / DCH,"Private
+Medical College",26265,50,50,0,50,10,3,1,4000,5000,1
+150,Maharashtra,PALGHAR,"Kaul Dedicated
+Hospital","Cat. I - Dedicated COVID
+Hospitals / DCH","Govt
+Hospitals",26267,45,45,0,45,10,9,1,100,300,1
+149,Maharashtra,PALGHAR,"Bolinj Dedicated
+Hospital","Cat. I - Dedicated COVID
+Hospitals / DCH","Govt
+Hospitals",26268,20,20,0,20,4,4,1,50,200,1
